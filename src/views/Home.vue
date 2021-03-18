@@ -15,4 +15,5 @@
 
 <style scoped lang="scss">
 @import "@/assets/styles/Home.scss";
+@import "@/assets/styles/Animation.scss";
 </style>
