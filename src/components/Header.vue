@@ -1,15 +1,15 @@
 <template>
-  <div class="header">
-    <h1>Jesper Bralten</h1>
+  <div class="header pt-4 mb-4">
+    <h1 class="mb-0"><a href="/">Jesper Bralten</a></h1>
     <ul>
-      <li><a href="/over-mij">Over Mij</a></li>
-      <li><a href="/vaardigheden">Vaardigheden</a></li>
-      <li><a href="/portfolio">Portfolio</a></li>
+      <li><a class="nav-link" href="/over-mij">Over Mij</a></li>
+      <li><a class="nav-link" href="/vaardigheden">Vaardigheden</a></li>
+      <li><a class="nav-link" href="/portfolio">Portfolio</a></li>
     </ul>
   </div>
 </template>
 
 <style scoped lang="scss">
-@import "@/assets/styles/Header.scss";
 @import "@/assets/styles/Animation.scss";
+@import "@/assets/styles/Header.scss";
 </style>
