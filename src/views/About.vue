@@ -1,5 +1,5 @@
 <template>
-  <div class="page">
+  <div class="about">
     <Header />
     <div class="about">
       <h1>Over Mij</h1>
